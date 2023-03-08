@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <English>
+    <!--Basic UI texts-->
+    <string name="TextButtonChangePath">Change path</string>
+    <string name="TextAddBookButton">Add Book</string>
+    <!--Texts for books-->
+    <string name="PlaceholderBookName">Book Title Right Here</string>
+    <string name="TextBookEdit">Edit</string>
+    <string name="TextBookExport">Export</string>
+    <string name="TextBookDelete">Delete</string>
+    <!--Warning when deleting book-->
+    <string name="TextDeletingBookWarning">You are going to delete book witch is not empty. Are you shure you want to delete this book?</string>
+    <string name="TextYesDeletingBookWarning">Yes, delete!</string>
+    <string name="TextNoDeletingBookWarning">No, keep book.</string>
+    <!--Warning when moving files-->
+    <string name="TextMovingFilesWarning">You are changing directory. Do you want move files from old directory to new one?</string>
+    <string name="TextYesMovingFilesWarning">Yes, move files!</string>
+    <string name="TextNoMovingFilesWarning">No, don't nove.</string>
+  </English>
+  
+  <Slovak>
+    <!--Texy základného UI-->
+    <string name="TextButtonChangePath">Zmeniť cestu</string>
+    <string name="TextAddBookButton">Pridať knihu</string>
+    <!--Texty pre knížky-->
+    <string name="PlaceholderBookName">Sem vlož názov knihy</string>
+    <string name="TextBookEdit">Upraviť</string>
+    <string name="TextBookExport">Exportovať</string>
+    <string name="TextBookDelete">Vymazať</string>
+    <!--Varovanie pre vymazaním knihy-->
+    <string name="TextDeletingBookWarning">Chystáš sa vymazať knihu, ktorá nieje prázdna. Vážne to chceš urobyť?</string>
+    <string name="TextYesDeletingBookWarning">Áno, vymazať!</string>
+    <string name="TextNoDeletingBookWarning">Nie, ponechať.</string>
+    <!--Zmena úložiska a presun súborov-->
+    <string name="TextMovingFilesWarning">Chystáš sa zmeniť adresu ukladacieho priestoru. Cheš presunúť súbory zo starého ukladacieho priestoru do nového?</string>
+    <string name="TextYesMovingFilesWarning">Áno, presunúť!</string>
+    <string name="TextNoMovingFilesWarning">Nie, nepresúvať.</string>
+  </Slovak>
+  
+  <Czech>
+    <!--Texy základného UI-->
+    <string name="TextButtonChangePath">ShugoX</string>
+    <string name="TextAddBookButton">ShugoX</string>
+    <!--Texty pre knížky-->
+    <string name="PlaceholderBookName">ShugoX</string>
+    <string name="TextBookEdit">ShugoX</string>
+    <string name="TextBookExport">ShugoX</string>
+    <string name="TextBookDelete">ShugoX</string>
+    <!--Varovanie pre vymazaním knihy-->
+    <string name="TextDeletingBookWarning">ShugoX, ShugoX. ShugoX?</string>
+    <string name="TextYesDeletingBookWarning">Áno, ShugoX!</string>
+    <string name="TextNoDeletingBookWarning">Nie, ShugoX.</string>
+    <!--Zmena úložiska a presun súborov-->
+    <string name="TextMovingFilesWarning">ShugoX. ShugoX?</string>
+    <string name="TextYesMovingFilesWarning">Áno, ShugoX!</string>
+    <string name="TextNoMovingFilesWarning">Nie, ShugoX.</string>
+  </Czech>
+</languages>

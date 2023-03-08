@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <English>
+    <!--Basic UI - Titles-->
+    <string name="TextContentCheck">Content check</string>
+    <string name="TextPathSetup">Path Setup</string>
+    <string name="TextStoryFiles">StoryFiles</string>
+    <string name="TextSkills">Skills</string>
+    <string name="TextArtefacts">Artefacts</string>
+    <string name="TextLastPageToggle">Set as last page</string>
+    <string name="TextCheckpointToggle">Set as checkpoint</string>
+    <string name="TagBookName">Book:</string>
+    <string name="TagPageName">Page:</string>
+    <!--Basic UI - Buttons-->
+    <string name="TextAddSkill">Add</string>
+    <string name="TextAddArtefact">Add</string>
+    <string name="TextAddPath">Add Path</string>
+    <!--Basic UI - Placeholders-->
+    <string name="PlaceholderTitleText">Enter title</string>
+    <string name="PlaceholderStoryText">Enter your story here...</string>
+    <!--Prefabs - Skill-->
+    <string name="PlaceholderSkillName">Skill...</string>
+    <!--Prefabs - Artefact-->
+    <string name="PlaceholderArtefactName">Enter text...</string>
+    <!--Prefabs - Path-->
+    <string name="LabelDeathEndToggle">Death end</string>
+    <string name="TextButtonCreateFile">Create file for path</string>
+    <string name="TextButtonCreateFileCreate">CREATE</string>
+    <string name="TextSelectFileToConnect">Select created file</string>
+    <string name="ArtefactBooleanTrue">True</string>
+    <string name="ArtefactBooleanFalse">False</string>
+    <!--Prefabs - Path - conditions-->
+    <string name="TextConditions">Conditions:</string>
+    <string name="TextAddSkillCheck">Add skill check</string>
+    <string name="TextAddArtefactCheck">Add artefact check</string>
+    <!--Prefabs - Path - effects-->
+    <string name="TextEffects">Effects:</string>
+    <string name="TextAddSkillEffect">Add skill effect</string>
+    <string name="TextAddArtefactEffect">Add artefact effect</string>
+    <string name="MathematicalOperationAddition">Addition</string>
+    <string name="MathematicalOperationSubtraction">Subtraction</string>
+    <!--Prefabs - Path - story choise-->
+    <string name="PlaceholderStoryChoise">Enter your story here...</string>
+    <!--Prefabs - Dropdown - Basic options-->
+    <string name="DropdownSelect">Select</string>
+    <string name="DropdownSelectSkill">Select skill</string>
+    <string name="DropdownSelectArtefact">Select Artefact</string>
+    <string name="DropdownSelectDeafult">Select Deafult</string>
+  </English>
+  
+  <Slovak>
+    <!--Basic UI - Titles-->
+    <string name="TextContentCheck">Nastavenie obsahu</string>
+    <string name="TextPathSetup">Nastavenie ciest</string>
+    <string name="TextStoryFiles">Príbehové súbory</string>
+    <string name="TextSkills">Skily</string>
+    <string name="TextArtefacts">Artefakty</string>
+    <string name="TextLastPageToggle">Nastaviť ako poslednú stránku</string>
+    <string name="TextCheckpointToggle">Nastavit ako checkpoint</string>
+    <string name="TagBookName">Kniha:</string>
+    <string name="TagPageName">Stránka:</string>
+    <!--Basic UI - Buttons-->
+    <string name="TextAddSkill">Pridať</string>
+    <string name="TextAddArtefact">Pridať</string>
+    <string name="TextAddPath">Pridať cestu</string>
+    <!--Basic UI - Placeholders-->
+    <string name="PlaceholderTitleText">Zadaj Názov</string>
+    <string name="PlaceholderStoryText">Sem vlož svoj príbeh...</string>
+    <!--Prefabs - Skill-->
+    <string name="PlaceholderSkillName">Meno skillu...</string>
+    <!--Prefabs - Artefact-->
+    <string name="PlaceholderArtefactName">Meno artefaktu...</string>
+    <!--Prefabs - Path-->
+    <string name="LabelDeathEndToggle">Slepá cesta</string>
+    <string name="TextButtonCreateFile">Vlastný súbor pre cestu</string>
+    <string name="TextButtonCreateFileCreate">Vytvoriť</string>
+    <string name="TextSelectFileToConnect">Vybrať už vytvorený</string>
+    <string name="ArtefactBooleanTrue">Má</string>
+    <string name="ArtefactBooleanFalse">Nemá</string>
+    <!--Prefabs - Path - conditions-->
+    <string name="TextConditions">Podmienky:</string>
+    <string name="TextAddSkillCheck">Pridať kontrolu skilu</string>
+    <string name="TextAddArtefactCheck">Pridať kontrolu artefaktu</string>
+    <!--Prefabs - Path - effects-->
+    <string name="TextEffects">Efeky:</string>
+    <string name="TextAddSkillEffect">Pridať effekt na skil</string>
+    <string name="TextAddArtefactEffect">Pridať efekt na artefakt</string>
+    <string name="MathematicalOperationAddition">Pripočítať</string>
+    <string name="MathematicalOperationSubtraction">Odpočítať</string>
+    <!--Prefabs - Path - story choise-->
+    <string name="PlaceholderStoryChoise">Sem vlož popis cesty.</string>
+    <!--Prefabs - Dropdown - Basic options-->
+    <string name="DropdownSelect">Zvoľ</string>
+    <string name="DropdownSelectSkill">Zvoľ skil</string>
+    <string name="DropdownSelectArtefact">Zvoľ artefakt</string>
+    <string name="DropdownSelectDeafult">Zvoľ základný</string>
+  </Slovak>
+  
+  <Czech>
+    <string name=""></string>
+  </Czech>
+</languages>
